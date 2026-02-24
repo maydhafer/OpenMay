@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://v0-openclaw-bot-clone-kjrnrgmmj-mays-projects-327199f2.vercel.app/" width="100%" />
-
-# 🌸 OpenMay
+<img src="https://raw.githubusercontent.com/maydhafer/OpenMay/main/May%20Dhafer.png" width="200"/>
 
 ### مساعدك الشخصي بالذكاء الاصطناعي
 **The AI that actually does things**
@@ -28,7 +26,8 @@
 |
 |
 --------
-|
+|# 🌸 OpenMay
+
 --------
 |
 |
@@ -61,5 +60,25 @@
 يعمل على macOS و Windows و Linux · مفتوح المصدر
 
 🌸 صُنع بحب بواسطة [مي للتقنية](https://github.com/maydhafer) 🌸
+
+</div>
+---
+
+<a href="https://v0-openclaw-bot-clone-kjrnrgmmj-mays-projects-327199f2.vercel.app/">
+  <img src="https://raw.githubusercontent.com/maydhafer/OpenMay/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-02-24%20144409.png" width="80%"/>
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td><a href="https://v0-openclaw-bot-clone-kjrnrgmmj-mays-projects-327199f2.vercel.app/"><img src="https://raw.githubusercontent.com/maydhafer/OpenMay/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-02-24%20144445.png" width="400"/></a></td>
+<td><a href="https://v0-openclaw-bot-clone-kjrnrgmmj-mays-projects-327199f2.vercel.app/"><img src="https://raw.githubusercontent.com/maydhafer/OpenMay/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-02-24%20144509.png" width="400"/></a></td>
+</tr>
+</table>
+
+<br/>
+🌸 صُنع بحب بواسطة [مي للتقنية](https://github.com/maydhafer) 🌸
+✨ **Open Source** | مفتوح المصدر
 
 </div>
